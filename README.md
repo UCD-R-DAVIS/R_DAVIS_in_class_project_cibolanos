@@ -1,3 +1,3 @@
 Chloe
 she/her
-animal bio
+animal biology
