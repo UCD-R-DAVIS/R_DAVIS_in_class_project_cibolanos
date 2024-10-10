@@ -32,3 +32,4 @@ year <- factor(c(1978,1980,1934,1979))
 year
 class(year)
 as.numeric(year) #order of the levels 
+year
