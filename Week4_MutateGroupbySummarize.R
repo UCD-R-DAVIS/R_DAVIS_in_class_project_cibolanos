@@ -81,6 +81,6 @@ surveys %>%
   
 
   
-
+#test 
 
 #Try out a new function, count(). Group the data by sex and pipe the grouped data into the count() function. How could you get the same result using group_by() and summarize()? Hint: see ?n.
