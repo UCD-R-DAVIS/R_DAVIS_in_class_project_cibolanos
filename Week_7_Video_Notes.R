@@ -225,8 +225,14 @@ mybarplot
 install.packages("BrailleR")
 Yes
 library(BrailleR)
-
-VI(mybarplot) #cant get this to work
+install.packages('shiny')
+install.packages('pkgload')
+install.packages('usethis')
+install.packages('hunspell')
+install.packages('quarto')
+install.packages('Rdpack')
+Yes
+VI(mybarplot) 
 
 install.packages("sonify")
 Yes
